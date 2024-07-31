@@ -8,6 +8,6 @@ def pares():
     if num % 2 == 0:
       Numeros_pares.append(num)
 
-  print("Los números pares ingresados son:", Numeros_pares)
+  print("Los números pares  son:", Numeros_pares)
 
 pares()
