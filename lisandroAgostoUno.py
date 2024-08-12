@@ -19,10 +19,12 @@ while True:
           Tareas_Añadidas.append
   elif opcion == 2:
       print("las tareas ingresadas son:", Tareas_Añadidas)
- 
- 
- 
- 
+ elif opcion == 4:
+    print("gracias por utilizar este programa")
+    break
+  else:
+    print("Opción no válida. Intente nuevamente.")
+
       
       
       
