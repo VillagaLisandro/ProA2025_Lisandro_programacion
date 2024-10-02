@@ -35,8 +35,6 @@ class Personaje:
             print(f"{self.nombre}ya esta muerto ")
             
             
-                
-    
     def mostrar_info(sef): 
         
         print()
